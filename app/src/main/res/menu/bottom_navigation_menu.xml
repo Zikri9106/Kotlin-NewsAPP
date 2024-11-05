@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/headlinesFragment"
+        android:icon="@drawable/round_article_24"
+        android:title="Headlines" />
+
+    <item
+        android:id="@+id/favoritesFragment"
+        android:icon="@drawable/round_assignment_turned_in_24"
+        android:title="Favorite" />
+
+    <item
+        android:id="@+id/searchFragment"
+        android:icon="@drawable/round_border_color_24"
+        android:title="Search" />
+</menu>
